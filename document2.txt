@@ -1,4 +1,7 @@
+
 // 충돌 만들기
+// da run cung doel
+
 #include <stdio.h>
 #include <stdlib.h>
 // hi diainakljnadfljknalvkjnadflvkjnadflkjnafvja;j;j v;j  j  ;j aj k
